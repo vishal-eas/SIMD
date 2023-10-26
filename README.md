@@ -14,7 +14,6 @@ and address. Finally, in the stage WB, data will be written back to register. Th
 address, data and BRAM enable will be exposed on the interface of processor. The architecture of
 processor is shown in the figure above.
 
-The experiment based on Cadence are shown below and more details can be found in the **[report](https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial/blob/master/report.pdf)**. The source code is well-commented and user can easily understanding how it work. This work was implemented as the final project of Digital VLSI System Design and Design Automation, HKUST. Thanks Prof. Tsui and TA Zhu a lot for their patience and time!
 
 <img src="https://github.com/zslwyuan/Basic-SIMD-Processor-Verilog-Tutorial/blob/master/post_layout_Sim.PNG" width="500"> 
 
